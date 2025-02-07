@@ -1,5 +1,5 @@
 # customer-churn-prediction
-# **Customer Churn Prediction App **  
+# Customer Churn Prediction App 
 _A machine learning-powered web app to predict customer churn using Streamlit and TensorFlow._  
 
 ##  **Overview**  
