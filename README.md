@@ -41,7 +41,7 @@ streamlit run app.py
 ```
 
 ## **Live Demo**  
-👉**[Try the App Here](https://your-deployed-app-url)**  
+**[Try the App Here](https://your-deployed-app-url)**  
 
 ## **Contributing**  
 Feel free to open issues or submit pull requests! 🚀  
